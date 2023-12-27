@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+.DS_Store
+
+# idea config
+.idea
+
+# old stages
+/Flashcards (Python)/*
+!/Flashcards (Python)/task/
+/Flashcards (Python)/task/*
+!/Flashcards (Python)/task/flashcards
